@@ -1,4 +1,9 @@
-# Calories Calculator
+
+<h1 align="center"> Calories calculator </h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70980297/203106384-e664d025-12cd-4c01-911b-2dfd1930a6e2.png" />
+</p>
+
 ## Техническое задание проекта
 
 ### О проекте
