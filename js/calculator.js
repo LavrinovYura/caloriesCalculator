@@ -1,4 +1,4 @@
-import {calculate, getActivityIndex} from "./util.mjs";
+import {calculate, getActivityIndex} from "./util.js";
 
 let maleCheck = document.querySelector('#gender-male');
 
